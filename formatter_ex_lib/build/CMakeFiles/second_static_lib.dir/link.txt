@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsecond_static_lib.a CMakeFiles/second_static_lib.dir/formatter_ex.cpp.o
+/usr/bin/ranlib libsecond_static_lib.a

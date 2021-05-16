@@ -1,0 +1,2 @@
+/usr/bin/ar qc libstatic_lib.a CMakeFiles/static_lib.dir/formatter.cpp.o
+/usr/bin/ranlib libstatic_lib.a

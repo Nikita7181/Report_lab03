@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/hello.dir/hello_world.cpp.o -o hello  /home/nikita/Nikita7181/workspace/projects/Report_lab03/formatter_ex_lib/build/libsecond_static_lib.a /home/nikita/Nikita7181/workspace/projects/Report_lab03/formatter_lib/build/libstatic_lib.a 

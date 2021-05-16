@@ -1,0 +1,9 @@
+/home/nikita/Nikita7181/workspace/projects/Report_lab03/hello_world_application/_build/CMakeFiles/rebuild_cache.dir
+/home/nikita/Nikita7181/workspace/projects/Report_lab03/hello_world_application/_build/CMakeFiles/hello.dir
+/home/nikita/Nikita7181/workspace/projects/Report_lab03/hello_world_application/_build/CMakeFiles/edit_cache.dir
+/home/nikita/Nikita7181/workspace/projects/Report_lab03/formatter_ex_lib/build/CMakeFiles/rebuild_cache.dir
+/home/nikita/Nikita7181/workspace/projects/Report_lab03/formatter_ex_lib/build/CMakeFiles/second_static_lib.dir
+/home/nikita/Nikita7181/workspace/projects/Report_lab03/formatter_ex_lib/build/CMakeFiles/edit_cache.dir
+/home/nikita/Nikita7181/workspace/projects/Report_lab03/formatter_lib/build/CMakeFiles/rebuild_cache.dir
+/home/nikita/Nikita7181/workspace/projects/Report_lab03/formatter_lib/build/CMakeFiles/static_lib.dir
+/home/nikita/Nikita7181/workspace/projects/Report_lab03/formatter_lib/build/CMakeFiles/edit_cache.dir
