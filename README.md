@@ -2,7 +2,7 @@
 ##                *Report*
 - `Ход работы`
 
-![Домашняя работа](https://github.com/Nikita7181/lab03)
+![Туториал](https://github.com/Nikita7181/lab03)
 
 ![](https://raw.githubusercontent.com/Nikita7181/Report_lab03/master/Screenshots/1.png)
 
